@@ -1,113 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-14T08:04:23 SGT" name="Default suite" finished-at="2022-06-14T08:06:30 SGT" duration-ms="127575">
+  <suite started-at="2022-06-14T10:09:00 SGT" name="Default suite" finished-at="2022-06-14T10:09:35 SGT" duration-ms="34407">
     <groups>
     </groups>
-    <test started-at="2022-06-14T08:04:23 SGT" name="Default test" finished-at="2022-06-14T08:06:30 SGT" duration-ms="127575">
+    <test started-at="2022-06-14T10:09:00 SGT" name="Default test" finished-at="2022-06-14T10:09:35 SGT" duration-ms="34407">
       <class name="projectEARF.FunctionalTestEARF">
-        <test-method is-config="true" signature="extent()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:22 SGT" name="extent" finished-at="2022-06-14T08:04:23 SGT" duration-ms="760" status="PASS">
+        <test-method is-config="true" signature="extent()[pri:0, instance:projectEARF.FunctionalTestEARF@169bb4dd]" started-at="2022-06-14T10:09:00 SGT" name="extent" finished-at="2022-06-14T10:09:00 SGT" duration-ms="856" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extent -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:23 SGT" name="setUp" finished-at="2022-06-14T08:04:27 SGT" duration-ms="4566" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@169bb4dd]" started-at="2022-06-14T10:09:00 SGT" name="setUp" finished-at="2022-06-14T10:09:05 SGT" duration-ms="4475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="EARF1stTest()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:27 SGT" name="EARF1stTest" finished-at="2022-06-14T08:04:37 SGT" duration-ms="9984" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EARF1stTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:37 SGT" name="teardown" finished-at="2022-06-14T08:04:38 SGT" duration-ms="271" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:38 SGT" name="setUp" finished-at="2022-06-14T08:04:41 SGT" duration-ms="2982" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="EARF2ndTest()[pri:1, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:41 SGT" name="EARF2ndTest" finished-at="2022-06-14T08:04:50 SGT" duration-ms="9750" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EARF2ndTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:50 SGT" name="teardown" finished-at="2022-06-14T08:04:51 SGT" duration-ms="208" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:51 SGT" name="setUp" finished-at="2022-06-14T08:04:53 SGT" duration-ms="2377" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="EARF3ndTest()[pri:2, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:04:53 SGT" name="EARF3ndTest" finished-at="2022-06-14T08:05:03 SGT" duration-ms="10143" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EARF3ndTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:03 SGT" name="teardown" finished-at="2022-06-14T08:05:03 SGT" duration-ms="212" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:03 SGT" name="setUp" finished-at="2022-06-14T08:05:06 SGT" duration-ms="2946" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="EARF4thTest()[pri:3, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:06 SGT" name="EARF4thTest" finished-at="2022-06-14T08:05:15 SGT" duration-ms="8784" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EARF4thTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:15 SGT" name="teardown" finished-at="2022-06-14T08:05:15 SGT" duration-ms="305" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:15 SGT" name="setUp" finished-at="2022-06-14T08:05:18 SGT" duration-ms="2875" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="EARF5thTest()[pri:4, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:18 SGT" name="EARF5thTest" finished-at="2022-06-14T08:05:28 SGT" duration-ms="9770" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EARF5thTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:28 SGT" name="teardown" finished-at="2022-06-14T08:05:28 SGT" duration-ms="250" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:28 SGT" name="setUp" finished-at="2022-06-14T08:05:31 SGT" duration-ms="2413" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="EARF7thTest()[pri:5, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:31 SGT" name="EARF7thTest" finished-at="2022-06-14T08:05:37 SGT" duration-ms="6032" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EARF7thTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:37 SGT" name="teardown" finished-at="2022-06-14T08:05:37 SGT" duration-ms="249" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:37 SGT" name="setUp" finished-at="2022-06-14T08:05:40 SGT" duration-ms="2909" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="EARF8thTest()[pri:6, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:40 SGT" name="EARF8thTest" finished-at="2022-06-14T08:05:58 SGT" duration-ms="17864" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EARF8thTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:58 SGT" name="teardown" finished-at="2022-06-14T08:05:58 SGT" duration-ms="192" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:05:58 SGT" name="setUp" finished-at="2022-06-14T08:06:01 SGT" duration-ms="2805" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="EARFWebPage()[pri:7, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:06:01 SGT" name="EARFWebPage" finished-at="2022-06-14T08:06:30 SGT" duration-ms="29470" status="PASS">
+        <test-method signature="EARFWebPage()[pri:7, instance:projectEARF.FunctionalTestEARF@169bb4dd]" started-at="2022-06-14T10:09:05 SGT" name="EARFWebPage" finished-at="2022-06-14T10:09:34 SGT" duration-ms="29463" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EARFWebPage -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:06:30 SGT" name="teardown" finished-at="2022-06-14T08:06:30 SGT" duration-ms="133" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:projectEARF.FunctionalTestEARF@169bb4dd]" started-at="2022-06-14T10:09:34 SGT" name="teardown" finished-at="2022-06-14T10:09:35 SGT" duration-ms="404" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="finish()[pri:0, instance:projectEARF.FunctionalTestEARF@7dfd3c81]" started-at="2022-06-14T08:06:30 SGT" name="finish" finished-at="2022-06-14T08:06:31 SGT" duration-ms="588" status="PASS">
+        <test-method is-config="true" signature="finish()[pri:0, instance:projectEARF.FunctionalTestEARF@169bb4dd]" started-at="2022-06-14T10:09:35 SGT" name="finish" finished-at="2022-06-14T10:09:36 SGT" duration-ms="653" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- finish -->

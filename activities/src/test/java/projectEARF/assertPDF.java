@@ -26,7 +26,7 @@ import org.testng.annotations.Test;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.util.Assert;
 
-public class assertPDF {
+public class assertPDF { 
 	
 	WebDriver driver;
 

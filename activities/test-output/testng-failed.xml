@@ -8,8 +8,11 @@
           <include name="EARFWebPage"/>
           <include name="setUp"/>
           <include name="finish"/>
+          <include name="EARF7thTest"/>
+          <include name="EARF5thTest"/>
           <include name="extent"/>
           <include name="teardown"/>
+          <include name="EARF8thTest"/>
         </methods>
       </class> <!-- projectEARF.FunctionalTestEARF -->
     </classes>
