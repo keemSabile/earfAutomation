@@ -41,7 +41,7 @@ public class FunctionalTestEARF {
 	ExtentReports extent;
 	ExtentTest test;
 	WebDriver driver;
-	
+	 
 	@BeforeSuite
 	public void extent() { 
 	htmlReporter = new ExtentSparkReporter(".//reports//EARF-report.html"); //File Directory/Title
